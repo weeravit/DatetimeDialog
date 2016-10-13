@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatetimeDialog</string>
+    <string name="confirm_txt">Confirm</string>
+</resources>
